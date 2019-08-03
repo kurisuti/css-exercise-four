@@ -30,7 +30,7 @@ div h1 {
     background-color: #D6D6D6;
     margin: 0px;
     width: 30%;
-    margin-left: 35%;
+    margin-left: 25%;
     min-width: 375px;
 
   }
@@ -66,8 +66,8 @@ div h1 {
 /**for tablet**/
 
 @media screen and (min-width: 575px){
-   .container {
-    margin: 1%;
-    width: 48%;
+   div h1 {
+    margin: 0%;
+    width: 100%;
   }
 }
